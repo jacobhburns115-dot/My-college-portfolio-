@@ -1,0 +1,45 @@
+body {
+	background-color: #1184D9}
+
+h1{color: #8F2613;
+   font-family: Courier;
+   font-size: 40px;
+   text-align: center;
+}
+p{color:#FFFAFA;
+font-family:Courier;
+}
+img{display: block;
+margin: auto;
+border-style: groove;
+border-width: 15px;
+border-color: #8F2613;}
+
+
+ul{list-style-type:disc;
+ margin-left: 5px;
+   padding: 5px;
+background-color: white;
+overflow: hidden;}
+
+li{ margin: 20px; }
+
+ul li {float: left;}
+
+ul li a {display: block;
+   color: red;
+   text-decoration: none;
+   text-align: center;
+   font-family: Courier;
+   font-size: 25px}
+   ul li a:hover {background-color: lightgreen;
+      font-size: 30px}   
+
+
+
+
+
+
+
+
+  
